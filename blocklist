@@ -8,8 +8,8 @@
 #
 # I would add these as domains so you can whitelist them when updating.
 #
-# Date: 28 December 2022 11:33 (UTC)
-# Number of unique domains: 28
+# Date: 28 December 2022 12:11 (UTC)
+# Number of unique domains: 13
 #
 # Project home page: https://github.com/CaughtIt/hosts
 #
@@ -36,31 +36,19 @@ ff02::3 ip6-allhosts
 # Title: LG Hosts contributed by CaughtIt
 
 # LG TV C2 (UK)
-0.0.0.0 aic-ngfts.lge.com
-0.0.0.0 aic.cdpbeacon.lgtvcommon.com
-0.0.0.0 ngfts.lge.com
-0.0.0.0 gb.info.lgsmartad.com
+
 0.0.0.0 alphonso.tv
-0.0.0.0 gb.ibs.lgappstv.com
 0.0.0.0 www.gstatic.com
-0.0.0.0 api.thetake.com
-0.0.0.0 nevoai-iothub-54-prod.azure-devices.net
 0.0.0.0 eic-ocp.lgtviot.com
 0.0.0.0 eic.sports.lgtviot.com
-0.0.0.0 discovery.meethue.com
 0.0.0.0 snu.lge.com
 0.0.0.0 eic.lgtviot.com
-0.0.0.0 eic.wiseconfig.lgtvcommon.com
-0.0.0.0 i.ytimg.com
-0.0.0.0 eic.recommend.lgtvcommon.com
-0.0.0.0 cdn.chili.com
 0.0.0.0 is1-ssl.mzstatic.com
-0.0.0.0 qt2-ngfts.lge.com
 0.0.0.0 rsc.cdn77.org
 0.0.0.0 img.nvidiagrid.net
 0.0.0.0 gsd-image-store.sports.gracenote.com
 0.0.0.0 gb.lgeapi.com
 0.0.0.0 eic-op-lss.lgthinq.com
 0.0.0.0 lgtvonline.lge.com
-0.0.0.0 gb.tvsdp.lgeapi.com
-0.0.0.0 gb.lgrecommends.lgappstv.com
+
+
