@@ -8,8 +8,8 @@
 #
 # I would add these as domains so you can whitelist them when updating.
 #
-# Date: 28 December 2022 11:19 (UTC)
-# Number of unique domains: 29
+# Date: 28 December 2022 11:33 (UTC)
+# Number of unique domains: 28
 #
 # Project home page: https://github.com/CaughtIt/hosts
 #
@@ -45,7 +45,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.gstatic.com
 0.0.0.0 api.thetake.com
 0.0.0.0 nevoai-iothub-54-prod.azure-devices.net
-0.0.0.0 www.ueiwsp.com
 0.0.0.0 eic-ocp.lgtviot.com
 0.0.0.0 eic.sports.lgtviot.com
 0.0.0.0 discovery.meethue.com
