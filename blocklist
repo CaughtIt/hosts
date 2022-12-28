@@ -4,9 +4,9 @@
 #
 # This hosts file is created from the list of domains my LG C2 (UK) connects to.
 #
-# gb.rdx2.lgtvsdp.com & gb.lgtvsdp.com appear to be used for App & Firmware Updates
+# gb.rdx2.lgtvsdp.com & gb.lgtvsdp.com appear to be used for App & Firmware Updates.
 #
-# I would add these as domains so you can whitelist them updating
+# I would add these as domains so you can whitelist them when updating.
 #
 # Project home page: https://github.com/CaughtIt/hosts
 #
