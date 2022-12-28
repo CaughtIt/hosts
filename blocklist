@@ -1,0 +1,62 @@
+# ==================================================================================
+# Title: CaughtIt/hosts                                                            #
+# ==================================================================================
+#
+# This hosts file is created from the list of domains my LG C2 (UK) connects to.
+#
+# gb.rdx2.lgtvsdp.com & gb.lgtvsdp.com appear to be used for App & Firmware Updates
+#
+# I would add these as domains so you can whitelist them updating
+#
+# Project home page: https://github.com/CaughtIt/hosts
+#
+# ==================================================================================
+
+127.0.0.1 localhost
+127.0.0.1 localhost.localdomain
+127.0.0.1 local
+255.255.255.255 broadcasthost
+::1 localhost
+::1 ip6-localhost
+::1 ip6-loopback
+fe80::1%lo0 localhost
+ff00::0 ip6-localnet
+ff00::0 ip6-mcastprefix
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
+ff02::3 ip6-allhosts
+0.0.0.0 0.0.0.0
+
+# Custom host records are listed here.
+
+#=====================================
+# Title: LG Hosts contributed by CaughtIt
+
+# LG TV C2 (UK)
+0.0.0.0 aic-ngfts.lge.com
+0.0.0.0 aic.cdpbeacon.lgtvcommon.com
+0.0.0.0 ngfts.lge.com
+0.0.0.0 gb.info.lgsmartad.com
+0.0.0.0 alphonso.tv
+0.0.0.0 gb.ibs.lgappstv.com
+0.0.0.0 www.gstatic.com
+0.0.0.0 api.thetake.com
+0.0.0.0 nevoai-iothub-54-prod.azure-devices.net
+0.0.0.0 www.ueiwsp.com
+0.0.0.0 eic-ocp.lgtviot.com
+0.0.0.0 eic.sports.lgtviot.com
+0.0.0.0 discovery.meethue.com
+0.0.0.0 snu.lge.com
+0.0.0.0 eic.lgtviot.com
+0.0.0.0 eic.wiseconfig.lgtvcommon.com
+0.0.0.0 i.ytimg.com
+0.0.0.0 eic.recommend.lgtvcommon.com
+0.0.0.0 cdn.chili.com
+0.0.0.0 is1-ssl.mzstatic.com
+0.0.0.0 qt2-ngfts.lge.com
+0.0.0.0 rsc.cdn77.org
+0.0.0.0 img.nvidiagrid.net
+0.0.0.0 gsd-image-store.sports.gracenote.com
+0.0.0.0 gb.lgeapi.com
+0.0.0.0 eic-op-lss.lgthinq.com
+0.0.0.0 lgtvonline.lge.com
