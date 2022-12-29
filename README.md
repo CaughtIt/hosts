@@ -9,4 +9,4 @@ I've reduced the block list to the level that the App Store and Apps i use work 
 
 I've listed the 2x Update domains to add to your Pi-Hole domains list to blacklist, but whitelist when you want to run any updates.
 
-I'll update this host lists periodically when i notice any other
+I'll update this host lists periodically when i notice any other domains i want to block.
