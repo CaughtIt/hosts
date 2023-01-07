@@ -7,6 +7,6 @@ and also stopped any Apps opening when needed an Update.
 
 I've reduced the block list to the level that the App Store and Apps i use work correctly. (App Store, YouTube, Disney+, Prime Video, Netflix) 
 
-I've listed the 3x Update domains to add to your Pi-Hole domains whitelist, set them as DISABLED as default.  Enable when you want to run any updates.
+I've listed 3x Update domains to add to your Pi-Hole domains whitelist, set them as DISABLED as default.  Enable when you want to run any updates.
 
 I'll update this host lists periodically when i notice any other domains i want to block.
