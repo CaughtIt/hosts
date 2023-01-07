@@ -4,12 +4,19 @@
 #
 # This hosts file is created from the list of domains my LG C2 (UK) connects to.
 #
-# gb.rdx2.lgtvsdp.com & gb.lgtvsdp.com appear to be used for App & Firmware Updates.
+# I set the following domains manually in Pi-Hole.
+# 
+# Whitelisted but with the rule DISABLED unless i want to update the TV firmware
+# or update Apps:-
+# 
+# gb.rdx2.lgtvsdp.com
+# gb.lgtvsdp.com
+# snu.lge.com
 #
-# I would add these as domains so you can whitelist them when updating.
+# ==================================================================================
 #
-# Date: 28 December 2022 12:11 (UTC)
-# Number of unique domains: 13
+# Date: 7 January 2023 18:17 (UTC)
+# Number of unique domains: 15
 #
 # Project home page: https://github.com/CaughtIt/hosts
 #
@@ -50,5 +57,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 gb.lgeapi.com
 0.0.0.0 eic-op-lss.lgthinq.com
 0.0.0.0 lgtvonline.lge.com
+0.0.0.0 gb.rdx2.lgtvsdp.com
+0.0.0.0 gb.lgtvsdp.com
 
 
